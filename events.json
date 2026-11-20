@@ -1,0 +1,25 @@
+
+{
+  "events": [
+    {
+      "day": "Monday",
+      "time": "20:00",
+      "eventName": "テストイベント",
+      "category": "交流会",
+      "members": [
+        "Aさん",
+        "Bさん"
+      ]
+    },
+    {
+      "day": "Tuesday",
+      "time": "21:00",
+      "eventName": "火曜日テスト",
+      "category": "ゲーム会",
+      "members": [
+        "Cさん",
+        "Dさん"
+      ]
+    }
+  ]
+}
